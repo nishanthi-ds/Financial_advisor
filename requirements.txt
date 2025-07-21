@@ -1,0 +1,16 @@
+langchain 
+chromadb
+ # aiss-cpu
+tiktoken 
+unstructured 
+pdfminer.six
+gradio
+langchain_community
+ipykernel
+fitz
+semantic_chunkers
+semantic_router
+nltk
+langchain_experimental
+sentence_transformers
+streamlit
